@@ -1,0 +1,1 @@
+Nel momento in cui un dispositivo invia un pacchetto ad un dispositivo presente nella seconda rete, il pacchetto viene inviato dal pc allo switch che nella lista dei suoi indirizzi MAC non trovando l'indirizzo "bersaglio" lo spedisce al router, che fingendosi l'indirizzo "sorgente", spedisce il pacchetto tramite la sua lista di indirizzi all'indirizzo host corretto.
